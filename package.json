@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "@types/google.maps": "^3.53.5",
+    "three": "^0.138.3",
     "typescript": "^5.2.2",
     "vite": "^5.0.12"
   },
